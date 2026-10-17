@@ -1,4 +1,13 @@
-Welcome to the Droidian docs!
+---
+layout: default
+title: Welcome to Droidian
+nav_order: 1
+has_children: true
+---
+
+# Droidian docs
+
+Welcome to the collection of Droidian docs!
 
 Droidian is a GNU/Linux distribution based on Debian for mobile devices. The goal of Droidian is to be able to run Debian on Android phones.
 
