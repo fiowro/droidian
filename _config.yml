@@ -1,16 +1,8 @@
-theme: jekyll-theme-minimal
-title: Droidian documentation
-description: Droidian GNU/Linux distribution website for docs
+title: Just the Docs Template
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
 
-theme: "just-the-docs"
+url: https://just-the-docs.github.io
 
-# Remote theme option if utilizing GitHub Pages default builder
-remote_theme: pmarsceill/just-the-docs
-
-# Enabling the built-in search bar
-search_enabled: true
-
-# Customizing the color palette to green
-color_scheme: light
-
-nav_enabled: true
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
