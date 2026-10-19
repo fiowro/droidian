@@ -13,7 +13,7 @@ These graphical shells rely on different software stack under the hood, and prov
 
 ## Choosing Phosh
 
-Phosh is the default GUI for Droidian, and therefore it is well tested and contains more bugfixes related  to the Droidian adaptation. It is a recommended choice for new users. 
+[Phosh](https://phosh.mobi/) is the default GUI for Droidian, and therefore it is well tested and contains more bugfixes related  to the Droidian adaptation. It is a recommended choice for new users. 
 
 * Phosh is available for all supported phones, both for the **current** and **next** [versions](Droidian-versions). Images based on phosh have can be easily guessed by the image file name, for example:
 
@@ -37,7 +37,7 @@ Also, it would be a wise choice to backup all valuable data and configuration fi
 
 ## Choosing Plasma mobile
 
-Plasma Mobile GUI has experimental status in Droidian, which means that it may have (and highly probably has!) bugs, and is generally less polished from the Droidian adaptation point of view.
+[Plasma Mobile](https://plasma-mobile.org/) GUI has experimental status in Droidian, which means that it may have (and highly probably has!) bugs, and is generally less polished from the Droidian adaptation point of view.
 
 * Pre-built flashable Plasma Mobile images are available for *some* supported phones, both for the **current** and **next** [versions](Droidian-versions). Images based on plasma-mobile mention `plamo-wf-experimental` in the image file name, for example:
 
