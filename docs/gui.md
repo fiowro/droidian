@@ -1,8 +1,6 @@
 ---
 layout: default
 title: GUI
-parent: Welcome to Droidian
-nav_order: 1
 ---
 
 # GUI

@@ -28,3 +28,6 @@ enable_copy_code_button  : # true, false (default)
 #copyright_url            : # "copyright" URL, defaults to site.url
 
 source                   : ./docs
+
+sidebar:
+  nav: "docs"

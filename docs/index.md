@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Welcome to Droidian
-nav_order: 1
-has_children: true
 ---
 
-# Droidian docs
+# Welcome to Droidian
 
 Welcome to the collection of Droidian docs!
 

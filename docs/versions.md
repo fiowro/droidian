@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Droidian versions
-parent: Welcome to Droidian
-nav_order: 1
 ---
 
 # Droidian versions
