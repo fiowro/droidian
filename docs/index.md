@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Welcome to Droidian
+sidebar:
+  nav: "docs"
 ---
 
 # Welcome to Droidian
