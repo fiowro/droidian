@@ -29,5 +29,11 @@ enable_copy_code_button  : # true, false (default)
 
 #source                   : ./docs
 
-sidebar:
-  nav: "docs"
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
