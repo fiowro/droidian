@@ -2,23 +2,16 @@ docs:
   - title: Home
     children:
       - title: "Welcome to Droidian"
-        url: /index
+        url: /index/
       - title: "Droidian versions"
-        url: /versions
+        url: /versions/
 
   - title: Customization
     children:
-      - 
       - title: "Choosing GUI"
-        url: /gui
+        url: /gui/
       - title: "Android app support"
         url: https://github.com/droidian/droidian/wiki/Android-app-support
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
 
   - title: Tips and tricks
     children:
