@@ -27,7 +27,7 @@ enable_copy_code_button  : # true, false (default)
 #copyright                : # "copyright" name, defaults to site.title
 #copyright_url            : # "copyright" URL, defaults to site.url
 
-#source                   : ./docs
+source                   : ./docs
 
 defaults:
   # _docs
