@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Welcome to Droidian
+author_profile: false
 sidebar:
-  nav: "docs"
+  title: "Droidian docs"
+  nav: docs
 ---
 
 # Welcome to Droidian
