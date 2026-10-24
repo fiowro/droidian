@@ -21,14 +21,13 @@ These graphical shells rely on different software stack under the hood, and prov
     sudo apt purge plasma-mobile* droidian-quirks-plamo-wf
     ```
 
-> [!WARNING]
-> It is much safer to switch GUI with `apt` when you [have working SSH connection set up](https://github.com/droidian/droidian/wiki/Some-useful-tips-and-scripts#how-to-connect-via-ssh) - just in case your previous GUI becomes non-responding during the switch, or if the switch goes wrong due to some existing customizations, causing Phosh malfunction after the reboot.
+**WARNING:** It is much safer to switch GUI with `apt` when you [have working SSH connection set up](https://github.com/droidian/droidian/wiki/Some-useful-tips-and-scripts#how-to-connect-via-ssh) - just in case your previous GUI becomes non-responding during the switch, or if the switch goes wrong due to some existing customizations, causing Phosh malfunction after the reboot.
+{: .notice--warning}
 
 Also, it would be a wise choice to backup all valuable data and configuration files before switching the GUI. 
 
-> [!NOTE]
-> When you are reverting to Phosh after trying Plasma Mobile, you may also be interested in removing apps which were automatically installed with the switch. In this case, check the apt history, `/var/log/apt/history.log`, for the names of the appropriate packages.
-
+**NOTE:** When you are reverting to Phosh after trying Plasma Mobile, you may also be interested in removing apps which were automatically installed with the switch. In this case, check the apt history, `/var/log/apt/history.log`, for the names of the appropriate packages.
+{: .notice--info}
 
 ## Choosing Plasma mobile
 
@@ -44,8 +43,8 @@ Also, it would be a wise choice to backup all valuable data and configuration fi
     sudo apt install droidian-plamo-wf-full
     ```
 
-> [!WARNING]
-> It is much safer to switch GUI with `apt` when you [have working SSH connection set up](https://github.com/droidian/droidian/wiki/Some-useful-tips-and scripts#how-to-connect-via-ssh) - just in case your previous GUI becomes non-responding during the switch, or Plasma Mobile will not operate properly after the reboot.
+**WARNING:** It is much safer to switch GUI with `apt` when you [have working SSH connection set up](https://github.com/droidian/droidian/wiki/Some-useful-tips-and scripts#how-to-connect-via-ssh) - just in case your previous GUI becomes non-responding during the switch, or Plasma Mobile will not operate properly after the reboot.
+{: .notice--warning}
 
 Also, it would be a wise choice to back up all valuable data and configuration files before switching the GUI. 
 

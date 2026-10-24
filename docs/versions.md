@@ -32,8 +32,8 @@ Flashing the appropriate image is the obvious way to switch from **current** to 
 
 You will need to [setup SSH access to your phone](https://github.com/droidian/droidian/wiki/Some-useful-tips-and-scripts#how-to-connect-via-ssh) to switch versions on the go.
 
-> [!WARNING]
-> Back up all valuable data from your home directory and configuration files before proceeding. This will allow you to restore your environment and data if the image reflashing will be needed because of something went wrong.
+**WARNING:** Back up all valuable data from your home directory and configuration files before proceeding. This will allow you to restore your environment and data if the image reflashing will be needed because of something went wrong.
+{: .notice--warning}
 
 Dynamic version switching requires the following steps:
 
