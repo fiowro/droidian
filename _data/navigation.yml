@@ -1,31 +1,30 @@
-docs:
+global_toc:
   - title: Home
     children:
       - title: "Welcome to Droidian"
         url: /
       - title: "Droidian versions"
-        url: / #versions/
+        url: /docs/versions/
 
   - title: Customization
     children:
       - title: "Choosing GUI"
-        url: / #gui
+        url: /docs/gui/
       - title: "Android app support"
-        url: / #https://github.com/droidian/droidian/wiki/Android-app-support
+        url: https://github.com/droidian/droidian/wiki/Android-app-support
 
   - title: Tips and tricks
     children:
       - title: "FAQ"
-        url: / #https://github.com/droidian/droidian/wiki/Frequently-Asked-Questions-(FAQs)
+        url: https://github.com/droidian/droidian/wiki/Frequently-Asked-Questions-(FAQs)
       - title: "User-collected tips"
-        url: / #https://github.com/droidian/droidian/wiki/A-collection-of-information
+        url: https://github.com/droidian/droidian/wiki/A-collection-of-information
       - title: "Useful tips and scripts"
-        url: / #https://github.com/droidian/droidian/wiki/Some-useful-tips-and-scripts
+        url: https://github.com/droidian/droidian/wiki/Some-useful-tips-and-scripts
 
   - title: Extras
     children:
       - title: "Porting guide"
-        url: / #https://github.com/droidian/droidian/wiki/Porting-guide
+        url: https://github.com/droidian/droidian/wiki/Porting-guide
       - title: "useful tips and scripts"
-        url: / #https://github.com/droidian/droidian/wiki/Some-useful-tips-and-scripts
-
+        url: https://github.com/droidian/droidian/wiki/Some-useful-tips-and-scripts

@@ -1,13 +1,7 @@
 ---
-layout: default
 title: Welcome to Droidian
 author_profile: false
-sidebar:
-  title: "Droidian docs"
-  nav: docs
 ---
-
-# Welcome to Droidian
 
 Welcome to the collection of Droidian docs!
 
