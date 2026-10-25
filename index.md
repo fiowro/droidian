@@ -2,8 +2,6 @@
 title: Welcome to Droidian
 ---
 
-{% include github-edit.html %}
-
 Welcome to the collection of Droidian docs!
 
 Droidian is a GNU/Linux distribution based on Debian for mobile devices. The goal of Droidian is to be able to run Debian on Android phones.

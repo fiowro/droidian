@@ -2,8 +2,6 @@
 title: Frequently Asked Questions (FAQ)
 ---
 
-{% include github-edit.html %}
-
 ### What is Droidian?
  Droidian is a GNU/Linux distribution based on top of Debian with Mobian repositories on top providing a Debian-based distribution for mobile devices. The goal of Droidian is to be able to run Debian on Android phones.This is accomplished by using well-known technologies such as libhybris and [Halium](https://halium.org/).
 
