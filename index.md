@@ -1,5 +1,9 @@
 ---
 title: Welcome to Droidian
+actions:
+  - label: "Edit on GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com/fiowro/droidian/edit/main/index.md"
 ---
 
 Welcome to the collection of Droidian docs!
