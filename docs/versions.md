@@ -1,5 +1,9 @@
 ---
 title: Droidian versions
+actions:
+  - label: "Edit on GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com{{ page.path }}"
 ---
 
 Being based on Debian, Droidian follows it's rolling release scheme with stable and testing versions of the distro. Each time there is a stable version called **current**, and an unstable/testing version called **next**. These versions also have predictable numbering: for example, if the current stable version of Droidian is **101**, then the version under testing would be **102**. The **current**'s version number is mentioned in the name of [Droidian release](https://github.com/droidian-images/droidian/releases) – something like [Droidian 101 (patchlevel 2025-11-30)](https://github.com/droidian-images/droidian/releases/tag/droidian%2F101.20251130), as well as in the appropriate image names). 

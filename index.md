@@ -1,6 +1,10 @@
 ---
 title: Welcome to Droidian
 author_profile: false
+actions:
+  - label: "Edit on GitHub"
+    icon: "fab fa-github"
+    url: "https://github.com{{ page.path }}"
 ---
 
 Welcome to the collection of Droidian docs!
