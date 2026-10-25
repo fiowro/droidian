@@ -2,10 +2,7 @@
 title: Welcome to Droidian
 ---
 
-<!-- ─── TRICKING THE THEME TO INJECT INTO THE RIGHT SIDEBAR ─── -->
-<div class="sidebar__right" style="clear: both; margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(0,0,0,0.1);">
-  {% include github-edit.html %}
-</div>
+{% include github-edit.html %}
 
 Welcome to the collection of Droidian docs!
 
