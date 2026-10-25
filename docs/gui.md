@@ -1,5 +1,5 @@
 ---
-title: GUI
+title: Choosing GUI
 ---
 
 The default graphical user interface in Droidian is [Phosh](https://phosh.mobi/). Alternatively, experimental packages are available that allow to install and use [Plasma Mobile](https://plasma-mobile.org/). 

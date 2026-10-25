@@ -11,20 +11,18 @@ global_toc:
       - title: "Choosing GUI"
         url: /docs/gui/
       - title: "Android app support"
-        url: https://github.com/droidian/droidian/wiki/Android-app-support
+        url: /docs/waydroid/
 
   - title: Tips and tricks
     children:
       - title: "FAQ"
-        url: https://github.com/droidian/droidian/wiki/Frequently-Asked-Questions-(FAQs)
+        url: /docs/faq/
       - title: "User-collected tips"
-        url: https://github.com/droidian/droidian/wiki/A-collection-of-information
-      - title: "Useful tips and scripts"
-        url: https://github.com/droidian/droidian/wiki/Some-useful-tips-and-scripts
+        url: /docs/collection/
 
   - title: Extras
     children:
       - title: "Porting guide"
-        url: https://github.com/droidian/droidian/wiki/Porting-guide
-      - title: "useful tips and scripts"
-        url: https://github.com/droidian/droidian/wiki/Some-useful-tips-and-scripts
+        url: /docs/porting/
+      - title: "Useful tips and scripts"
+        url: /docs/tips/
