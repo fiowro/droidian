@@ -1,9 +1,5 @@
 ---
 title: Choosing GUI
-actions:
-  - label: "Edit on GitHub"
-    icon: "fab fa-github"
-    url: "https://github.com{{ page.path }}"
 ---
 
 The default graphical user interface in Droidian is [Phosh](https://phosh.mobi/). Alternatively, experimental packages are available that allow to install and use [Plasma Mobile](https://plasma-mobile.org/). 
